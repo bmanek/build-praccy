@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  company: MyString
+  manager: MyString
+  address: MyString
+  start_date: 2021-07-27 07:56:33
+  end_date: 2021-07-27 07:56:33
+
+two:
+  title: MyString
+  company: MyString
+  manager: MyString
+  address: MyString
+  start_date: 2021-07-27 07:56:33
+  end_date: 2021-07-27 07:56:33
